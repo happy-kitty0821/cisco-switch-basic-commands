@@ -21,13 +21,14 @@ During this practical exploration, we will cover a range of important networking
 
 ## Repository Structure
 
-This repository is organized into folders, each representing a specific topic we will cover. Inside each folder, you will find detailed instructions, configuration examples, and exercises to practice your skills.
+This repository is organized into files, each file representing a specific topic we will cover. Inside each file, you will find detailed instructions, configuration examples, and exercises to practice your skills.
 
-Feel free to explore the different folders and work through the exercises at your own pace. Make sure to read the instructions carefully, and don't hesitate to ask questions if you encounter any difficulties.
+Feel free to explore the different files and work through the exercises at your own pace. Make sure to read the instructions carefully, and don't hesitate to ask questions if you encounter any difficulties.
 
 ## Getting Started
 
 To get started with the practical exercises, you will need access to Cisco switches and a terminal emulator software, such as PuTTY. Follow the instructions provided in each folder to set up your lab environment and begin practicing.
+Or you can even use cisco packet tracer if you do not have access to cisco devices.
 
 ## Contributions
 
@@ -39,3 +40,6 @@ We're excited to embark on this practical networking journey with you. Let's div
 
 Happy exploring!
 
+## Contact
+
+wanemaayush0@gmail.com
