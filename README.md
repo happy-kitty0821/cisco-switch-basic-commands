@@ -30,7 +30,7 @@ Feel free to explore the different files and work through the exercises at your 
 To get started with the practical exercises, you will need access to Cisco switches and a terminal emulator software, such as PuTTY. Follow the instructions provided in each folder to set up your lab environment and begin practicing.
 Or you can even use cisco packet tracer if you do not have access to cisco devices.
 
-##download Cisco Packet Tracer
+## Download Cisco Packet Tracer
 To download Packet Tracer, you can follow these steps:
 
 1. Go to the Cisco Networking Academy website: Visit the Cisco Networking Academy website at https://www.netacad.com/. This website provides access to Packet Tracer for students enrolled in Networking Academy courses.
