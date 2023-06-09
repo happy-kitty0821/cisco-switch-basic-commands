@@ -1,5 +1,5 @@
 
-In Cisco Packet Tracer, Network Address Translation (NAT) allows you to translate private IP addresses to public IP addresses, enabling devices with private addresses to access the internet. Here's how you can configure NAT in Packet Tracer:
+Network Address Translation (NAT) allows you to translate private IP addresses to public IP addresses, enabling devices with private addresses to access the internet. Here's how you can configure NAT in Packet Tracer:
 
 1. Open Packet Tracer and create a network topology with at least one router and one or more devices.
 
